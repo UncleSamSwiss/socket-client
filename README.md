@@ -19,7 +19,7 @@ npm run tsc -watch
 	### **WORK IN PROGRESS**
 -->
 
-### **WORK IN PROGRESS**
+### 1.0.2 (2021-06-09)
 * (UncleSamSwiss) Fixed a thing
 
 ### 1.0.1 (2021-06-09)
